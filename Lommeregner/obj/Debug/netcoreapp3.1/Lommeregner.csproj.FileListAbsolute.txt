@@ -1,0 +1,11 @@
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.exe
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.deps.json
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.runtimeconfig.json
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.runtimeconfig.dev.json
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.dll
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\bin\Debug\netcoreapp3.1\Lommeregner.pdb
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.csprojAssemblyReference.cache
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.AssemblyInfoInputs.cache
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.AssemblyInfo.cs
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.dll
+C:\Users\rasmu\Uni\Semester2\C# programmering\Hjemmeopgaver\Lommeregner\Lommeregner\obj\Debug\netcoreapp3.1\Lommeregner.pdb

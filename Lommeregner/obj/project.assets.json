@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rasmu\\Uni\\Semester2\\C# programmering\\Hjemmeopgaver\\Lommeregner\\Lommeregner\\Lommeregner.csproj",
+      "projectUniqueName": "C:\\Users\\rasmu\\Uni\\Semester2\\C# programmering\\Homework1\\Lommeregner\\Lommeregner.csproj",
       "projectName": "Lommeregner",
-      "projectPath": "C:\\Users\\rasmu\\Uni\\Semester2\\C# programmering\\Hjemmeopgaver\\Lommeregner\\Lommeregner\\Lommeregner.csproj",
+      "projectPath": "C:\\Users\\rasmu\\Uni\\Semester2\\C# programmering\\Homework1\\Lommeregner\\Lommeregner.csproj",
       "packagesPath": "C:\\Users\\rasmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rasmu\\Uni\\Semester2\\C# programmering\\Hjemmeopgaver\\Lommeregner\\Lommeregner\\obj\\",
+      "outputPath": "C:\\Users\\rasmu\\Uni\\Semester2\\C# programmering\\Homework1\\Lommeregner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rasmu\\AppData\\Roaming\\NuGet\\NuGet.Config",

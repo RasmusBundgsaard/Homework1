@@ -16,6 +16,17 @@ namespace Lommeregner
             int number3 = Int32.Parse(number1);
             int number4 = Int32.Parse(number2);
 
+            if (number3 == number4)
+            {
+                Console.WriteLine((number4 + number3) * 3);
+            }
+            if (number3 != number4)
+            {
+                Console.WriteLine(number4 + number3);
+            }
+
+
+            /*
             if (number3 == 1 && number4 == 1)
             {
                 Console.WriteLine("4");
@@ -56,6 +67,9 @@ namespace Lommeregner
             {
                 Console.WriteLine("The numbers is too big, try again");
             }
+
+        */
+
 
 
 
